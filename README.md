@@ -66,4 +66,3 @@ The analysis was performed in Python using a Jupyter Notebook and covers:
 - Visualizing relationships in the data  
 - Applying simple statistical methods  
 - Communicating insights clearly  
-- Working in a reproducible way using Jupyter Notebook  
