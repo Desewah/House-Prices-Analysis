@@ -3,7 +3,7 @@ House Prices Data Analysis & Inference
 This project explores a housing market dataset to understand how factors like size, year built, and location influence house prices.
 It includes data cleaning, exploratory analysis, feature engineering, and a simple inferential test to check assumptions about average pricing.
 
-This is my Second Semester Data Science Project, and it demonstrates my ability to work with real datasets, clean them, analyze them, and communicate insights clearly.
+This is my AltSchool Africa second-semester data science Project, and it demonstrates my ability to work with real datasets, clean them, analyze them, and communicate insights clearly.
 
 <br>
 1 — Overview
@@ -28,31 +28,31 @@ Clear explanations of every step
 
 <br>
 2 — Key Insights From the Data
-🏠 House Prices Distribution
+House Prices Distribution
 
-Prices were right-skewed, meaning a few very expensive houses raise the overall average.
+Prices were right-skewed, meaning a few expensive houses raised the overall average.
 
 The median price was a more stable measure than the mean.
 
 📏 Living Area vs Sale Price
 
-There was a strong positive correlation between living area (sq ft) and sale price.
+There was a strong positive correlation between living area and sale price.
 
 Larger homes consistently sold for more, with some exceptions based on location.
 
-💡 Price Per Square Foot
+Price Per Square Foot
 
 Creating the price per sq ft feature exposed interesting differences:
 
-Some smaller homes had a higher price per sq ft, suggesting location and renovation can influence value more than size.
+Some smaller homes had a higher price per square foot, suggesting that location and renovation can influence value more than size.
 
-📉 Outliers
+Outliers
 
-A few extremely large or extremely expensive houses were distorting the analysis.
+A few expensive houses were distorting the analysis.
 
 Removing or adjusting them produced cleaner visualizations and more reliable trends.
 
-📊 Inferential Statistics
+Inferential Statistics
 
 Using a one-sample t-test, I tested whether the average house price exceeds $180,000.
 
